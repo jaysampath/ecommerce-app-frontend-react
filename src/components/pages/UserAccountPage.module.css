@@ -1,0 +1,46 @@
+
+.account{
+    background-color: white;
+    width: 50rem;
+    height: auto;
+    text-align: center;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.userEmail{
+    font-weight: bold;
+    overflow:hidden;
+}
+
+.linksDiv{
+    text-align: left;
+}
+
+.links{
+    list-style: none;
+    margin: 0.75rem;
+}
+
+.ordersLink{
+    text-decoration: none;
+    color: black;
+}
+
+.ordersLink:hover{
+    text-decoration: underline;
+}
+
+.linkToPage{
+    border: 1px solid black;
+    background-color: gray;
+    text-align: center;
+    width: 30rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 15px;
+}
+
+.linkToPage:hover{
+    background-color: rgb(212, 182, 182);
+}
