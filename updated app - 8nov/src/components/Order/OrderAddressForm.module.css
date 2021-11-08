@@ -1,0 +1,70 @@
+
+
+.form {
+  background-color: white;
+  max-width: 40rem;
+  width: 90%;
+  height: auto;
+  padding: 0 1rem;
+  margin: 0.2rem auto;
+}
+
+.required {
+  color: red;
+}
+
+.label {
+  margin-left: 4rem;
+  width: 5rem;
+  margin-right: 2rem;
+  text-align: left;
+  float: left;
+}
+
+.input {
+  width: 20rem;
+  font-size: 1.1rem;
+  float: left;
+}
+
+.inputDiv {
+  display: inline-block;
+  margin: 0rem 1rem 0rem 1rem;
+  width: 36rem;
+  padding: 1rem;
+}
+
+.error{
+  color: red;
+  font-style: italic;
+}
+
+.actionsDiv{
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.previewLink{
+  text-decoration: none;
+  border: 1px solid blue;
+  background-color: blue;
+  padding: 1rem;
+  color: white;
+  border-radius: 8px;
+}
+
+.previewLink:hover{
+  background-color: rgb(35, 35, 129);
+}
+.button{
+  margin-right: 2rem;
+  padding: 1rem;
+}
+
+.cancelButton{
+  float: left;
+  margin: 1rem;
+}
+
+
