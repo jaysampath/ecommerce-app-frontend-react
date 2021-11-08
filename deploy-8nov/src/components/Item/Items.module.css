@@ -1,0 +1,28 @@
+.items{
+    margin: 2rem auto;
+    max-width: 100rem;
+    width: 90%;
+    padding: 1rem;
+}
+
+.loaderDiv{
+    text-align: center;
+}
+
+.loaderDivText{
+    color: white;
+}
+
+.isLoading{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    font-style: italic;
+}
+
+.error{
+    color: red;
+    font-size: 1.5rem;
+    text-align: center;
+    font-style:normal;
+}
