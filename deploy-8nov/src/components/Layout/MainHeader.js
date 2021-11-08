@@ -10,7 +10,7 @@ const Header = (props) => {
 
   const logoutHandler = () => {
     appAuthCtx.logout();
-    window.location.href = "http://localhost:3000/login";
+    window.location.href = "https://ecommerce-app-frontend-react.vercel.app/login";
   };
 
   return (
