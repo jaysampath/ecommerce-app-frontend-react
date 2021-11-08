@@ -104,7 +104,7 @@ const Signup = (props) => {
             <input
               id="password"
               value={passwordInput}
-              type="text"
+              type="password"
               onChange={passwordInputHandler}
             />
 
@@ -112,7 +112,7 @@ const Signup = (props) => {
             <input
               id="confirm-password"
               value={confirmPasswordInput}
-              type="text"
+              type="password"
               onChange={confrimPasswordInputHandler}
             />
 
