@@ -81,7 +81,7 @@ const Login = (props) => {
             <input
               id="password"
               value={passwordInput}
-              type="text"
+              type="password"
               onChange={passwordInputHandler}
             />
 
