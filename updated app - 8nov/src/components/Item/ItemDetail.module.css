@@ -1,0 +1,51 @@
+.itemDetail{
+    margin: 2rem auto;
+    max-width: 100rem;
+    width: 95%;
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    height: auto;
+}
+
+.imageDiv{
+    float: left;
+    padding: 3rem;
+    position: relative;
+    top: 2rem;
+}
+
+.image{
+    width: 25rem;
+    height: 25rem;
+}
+
+.detailsDiv{
+    position: relative;
+    top: 2rem;
+    padding: 3rem;
+    text-align: center;
+}
+
+.clear{
+    float:none;
+}
+
+.mainDiv{
+    height: 35rem;
+}
+
+.star{
+    color: gold;
+    font-size: 23px;
+}
+
+.buyNowLink{
+    list-style: none;
+    text-decoration: none;
+}
+
+.loaderDiv{
+    text-align: center;
+}
