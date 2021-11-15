@@ -1,4 +1,4 @@
-const baseUrl = "http://ec2-65-1-64-123.ap-south-1.compute.amazonaws.com:8080";
+const baseUrl = "https://adr3ozakrh.execute-api.ap-south-1.amazonaws.com/userlogin/user-login";
 
 export const checkExistingUserLink = baseUrl+ "/user/check/";
 
